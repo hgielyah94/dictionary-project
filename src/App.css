@@ -72,7 +72,6 @@ h3 {
   padding-left: 95px;
 }
 h6.footer {
-  color: violet;
   padding-top: 200px;
   text-align: right;
 }
@@ -81,4 +80,11 @@ h6.footer {
 }
 h6 {
   text-align: right;
+}
+a {
+  color: violet;
+  text-decoration: none;
+}
+a:hover {
+  color: grey;
 }
