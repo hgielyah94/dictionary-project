@@ -14,8 +14,7 @@ div.App {
   border-style: solid;
   border-width: 4px;
   border-radius: 20px;
-  min-height: 700px;
-  margin-bottom: 175px;
+  margin-bottom: 450px;
 }
 
 h2 {
@@ -92,4 +91,7 @@ a {
 }
 a:hover {
   color: grey;
+}
+div.results {
+  text-align: left;
 }
