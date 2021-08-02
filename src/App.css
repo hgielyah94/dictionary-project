@@ -114,3 +114,12 @@ div.results {
   padding-right: 10px;
   color: grey;
 }
+div.row {
+  padding-top: 40px;
+}
+h5.GalleryTitle {
+  padding-bottom: 20px;
+}
+.Photos img {
+  margin-bottom: 24px;
+}
