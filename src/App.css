@@ -95,3 +95,6 @@ a:hover {
 div.results {
   text-align: left;
 }
+.Quote:first-letter {
+  text-transform: capitalize;
+}
