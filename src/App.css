@@ -33,15 +33,26 @@ h5#description {
   display: block;
   color: violet;
   padding-left: 0px;
-  padding-top: 20px;
+  padding-top: 40px;
+}
+p#Synonyms {
+  color: rgb(69, 183, 162);
+  padding-left: 0px;
+  padding-right: 10px;
+  padding-top: 0px;
+  display: inline-block;
+}
+p#Synonyms.text-capitalize {
+  margin-bottom: 0px;
 }
 h4 {
-  padding-top: 10px;
+  padding-top: 20px;
   text-align: left;
 }
 p {
   font-size: 18px;
   color: grey;
+  margin-bottom: 5px;
 }
 input {
   border-style: solid;
